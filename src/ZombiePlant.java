@@ -9,7 +9,7 @@ public class ZombiePlant {
     private final int maxPotency;
     private int treatmentsNumber;
 
-//constructor
+    //constructor
 
     public ZombiePlant(int maxPotency, int treatmentsNumber) {
         this.maxPotency = maxPotency;
